@@ -1,6 +1,6 @@
 # SCHEMA-lab
 
-SCHEMA Lab is an open-source platform developed to assist researchers and scientists in managing and executing computational tasks efficiently. The platform specializes in submitting and monitoring containerized task execution requests, providing a seamless environment for your computational needs.
+SCHEMA Lab is an open-source platform developed to assist researchers and scientists in managing and executing computational tasks efficiently. The platform specializes in submitting and monitoring containerized task execution requests, providing a seamless environment for your computational needs. Additionally users can create and manage computational experiments by selecting multiple tasks or workflows.
 
 # Deployment
 
